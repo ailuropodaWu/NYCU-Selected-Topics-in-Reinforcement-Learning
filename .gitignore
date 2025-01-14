@@ -1,0 +1,15 @@
+.vscode
+lab1/weight.bin
+lab2/Code/log/
+lab3/Code/result/
+lab3/Code/log
+lab4/Code/log/
+lab4/Code/result/
+final/final_project_env/docs/
+final/final_project_env/models/
+final/final_project_env/results/
+final/final_project_env/PPO/log/
+final/final_project_env/TD3/log/
+__pycache__/
+*.docx
+*.zip
